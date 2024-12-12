@@ -1,5 +1,5 @@
 # Project Overview 
-This Project, will summarized any Big News/Big Article/Big Paragraphs into a readable & short paragraph. This can help reader to get big information into a small chunk. 
+This Project, will summarized any Big News/Big Article/Big Paragraphs into a readable & short paragraph. This can help readers to get big information into a small chunk. 
 
 # Main Purpose 
 To save the time of the reader. In less time, he/she get the more value from it. 
